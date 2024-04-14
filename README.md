@@ -13,17 +13,15 @@
   </tfoot>
 </table>
 
-![Lab 3 Assignment](https://github.com/allegheny-college-cmpsc-104-Fall-2024/lab03/blob/main/graphics/vscode.png)
+![Lab 4 Assignment](https://github.com/allegheny-college-cmpsc-104-Fall-2024/lab04/blob/main/graphics/techWriting.png)
 
 ## Project Goals
-- Familiarize yourself with the VSCode interface and basic navigation.
-- Explore code editing and debugging features.
-- Utilize extensions to enhance development productivity.
-- Integrate VSCode with Git for version control.
+- Achieve thorough understanding and accurate communication of technical subject matter.
+- Develop clear, concise documentation with visual aids to enhance readability and user comprehension.
+- Apply consistent formatting, adhere to style guidelines, and collaborate effectively with experts.
 
 ## Tools
 - A computer
-- Internet connection for installation and documentation reference
 - A GitHub account
 
 ## Learning Outcomes
@@ -32,70 +30,45 @@ These assignment learning outcomes contribute to the following course learning o
 1. Describe and explain processes such as software installation or design for a variety of technical and non-technical audiences ranging from inexperienced to expert.
 2. Use professional-grade integrated development environments (IDEs), command-line tools, and version control systems to compose, edit, and deploy well-structured, web-ready documents and industry-standard documentation tools.
 
+## Introduction
+Welcome to the technical writing lab assignment focused on creating a comprehensive user manual for JIRA, the renowned project management and issue tracking software by Atlassian. This assignment is designed to enhance your technical writing skills by applying them to a real-world software tool widely used in the industry.
+
+### Objective
+The primary goal of this assignment is to develop a user manual that clearly and accurately describes the functionalities of JIRA, catering to both new and experienced users. You will delve into various aspects of the software, including project setup, issue tracking, workflow customization, and the use of JIRA for agile methodologies.
+
+### Importance of the Assignment
+This project will allow you to practice and showcase your ability to translate complex software operations into clear, actionable instructions for end-users. 
+
+### What You Will Learn
+- **Technical Communication Skills**: Enhance your ability to communicate complex information in a structured, clear, and professional manner.
+- **Documentation Standards and Best Practices**: Learn the industry standards for technical documentation, including layout, design, and usability best practices.
+- **Problem-Solving and Analytical Skills**: Address hypothetical troubleshooting scenarios and common user queries regarding JIRA usage.
+
+This assignment is not just about writing a manual; it's about creating a resource that can genuinely assist users in maximizing their productivity with JIRA. The skills you develop here will be directly applicable to any technical writer's role in technology and software development fields.
+
 ## Instructions
 
-### Part 1: VSCode Commands
-- Please complete the TODOs in `writing/VSCode_command.md`.
-
-### Part 2: Code Editing
-1. Create a new file named **lab3.py** using VScode.
-2. In this file, write a simple Python program that prints the message "Hello, VSCode!" to the console. (You can use: `print ("Hello, VSCode!")`)
-3. Submit lab3.py to the `writing/` directory in your project repository.
-
-### Part 3: Debugging
-1. Identify and correct errors in `writing/debug.py` using VSCode's debugging features.
-3. Upon successfully debugging the script, take a screenshot of your VSCode interface showing the corrected script and no errors present. Name this screenshot debug.png. This will serve as proof of your successful debugging process
-2. Submit the corrected debug.py file and the debug.png screenshot.
-
-### Part 4: Write about Visual Studio Code Insights
-- Please complete the TODOs in `writing/reflection.md`.
-1. **What is Visual Studio Code?** and its purpose in software development.
-2. Discuss the key features of VSCode, such as IntelliSense, Debugging, Extensions, and Version Control Integration.
-
-### Part 5: Git Integration and Branching
-1. **Modify README.md**:Open the README.md file and Delete the "Delete-mark" here.
-2. **Commit Your Changes**:
-   - Navigate to the Source Control panel in VSCode.
-   - Stage your changes for commit by clicking the `+` next to the `README.md` file.
-   - Commit your changes by entering a meaningful commit message in the message box and pressing the checkmark icon or `Ctrl+Enter` (`Cmd+Enter` on macOS).
-   - Example commit message: `"Remove TODO items from README."`
-3. **Work with Branches**:
-   - Create a new branch named `update-readme` by opening the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on macOS), then typing `Git: Create Branch...` and entering the branch name.
-   - Switch to your newly created branch by opening the Command Palette again, typing `Git: Checkout to...`, and selecting `update-readme`.
-4. **Push Changes and Branch to Remote**:
-   - Push your commit along with the new branch to the remote repository. This can be done from the Source Control panel by clicking the `...` button, selecting `Push to...`, choosing your remote, and then selecting your branch.
+### User Manual for JIRA
+- Please use the template complete the TODOs in `writing/temp.md`.
 
 ### _Notes_: 
-- Within `writing/VSCode_command.md` and `writing/reflection.md`, you will find several TODOs awaiting your completion. As you work, please ensure to remove all TODO markers. 
-- For this lab, GatorGrader will verify that all TODOs have been eliminated and that your submission includes a minimum of 200 words.
-- To complete part 2, first make sure that Python3 is installed by typing `python --version` into the Terminal in VSCode to verify your current version. If Python is not installed, refer to the instructions in the "Gator Grade" section of this assignment for guidance on installation.
+- For this lab, GatorGrader will verify that all TODOs have been eliminated and that your submission includes a minimum of 500 words.
 
 ## Resources
-- Official Visual Studio Code Documentation: https://code.visualstudio.com/docs
-- Git Integration with VSCode: https://code.visualstudio.com/docs/editor/versioncontrol
+- Google’s Technical Writing Course: https://developers.google.com/tech-writing
+- IBM’s Developing Quality Technical Information - A Handbook for Writers and Editors: Hargis, Gretchen, Michelle Carey, Ann Kilty Hernandez, Polly Hughes, Deirdre Longo, Shannon Rouiller, and Elizabeth Wilde. Developing quality technical information: A handbook for writers and editors. Pearson Education, 2004.
+- Chicago Manual of Style: https://www.chicagomanualofstyle.org/book/ed17/part2/ch05/toc.html
 
 ## Deliverables
 Please submit your work by pushing it to your GitHub Classroom repository.
-- Modify the files `writing/VSCode_command.md`, `writing/reflection.md` and `writing/debug.py`.
-- Add `writing/lab3.py`.
-
 
 ## Project Assessment
-- **Report Quality (20%)**: The quality of the writing in `writing/reflection.md` will be assessed.
-    - Clarity and Coherence (5%): Writing clearly expresses ideas and concepts, with logical flow and coherence throughout.
-    - Structure and Organization (5%): The report is well-structured. Follows the assignment guidelines accurately.
-    - Grammar and Style (5%): Correct use of grammar, punctuation, and academic style. Professional and appropriate language is used.
-    - Depth of Reflection (5%): Demonstrates deep understanding and thoughtful reflection on each topics. Includes detailed explanations and insights.
-- **VScode Command Proficiency (30%)**: Correctly answer questions related to Git commands in `writing/VSCode_command.md`. Each correct response is worth 3%.
-- **Code Editing (10%)**: 
-    - Write a Python program that prints "Hello, VSCode!" to the console.
-- **Debugging (10%)**: 
-    - Correctly identify and fix all logical errors in the debug.py file, ensuring that the function group_religions returns accurate categories for each religion type (5%).
-    - Provide a clear screenshot (debug.png) showing the corrected debug.py file open in VSCode, with the script successfully executed and displaying the expected output in the Terminal. The screenshot should clearly show the VSCode interface, including the Terminal output demonstrating the script running without errors (5%).
-- **Git Integration and Branching (20%)**:
-    - Successfully removing the "TODO" from the `README.md` file (5%).
-    - Correctly committing changes with an appropriate message (5%).
-    - Successfully creating and switching to a new branch within VSCode (10%).
+- **Content Accuracy (Up to 20%)**: The manual provides accurate descriptions of JIRA's features and functionalities. All information is current, relevant to JIRA’s latest version, and correctly explains the platform's capabilities and settings.
+- **Clarity and Readability (Up to 20%)**: Information is presented clearly and concisely. Sentences are well-constructed, paragraphs are coherent, and there is a logical flow of information that is easy to follow.
+- **Completeness (Up to 20%)**: The manual thoroughly covers most of key features of JIRA, including setup, project creation, issue tracking, integrations, and use of agile methodologies.
+- **Technical Accuracy (Up to 10%)**: Technical terms are used accurately and appropriately. There is a clear understanding of JIRA’s technical aspects, and technical information is explained in a way that is accessible to both technical and non-technical users.
+- **Formatting and Presentation (Up to 10%)**: Excellent use of headings, subheadings, bullet points, and tables. The manual is visually appealing and professionally formatted.
+- **Use of Visuals (Up to 10%)**: Visual aids like screenshots, diagrams, and charts are used effectively throughout the manual. They enhance understanding and are well-integrated into the text.
 - **Achieve GatorGrader Compliance (10%)**: Successfully meets the criteria set by GatorGrader.
 
 ## Gator Grade
