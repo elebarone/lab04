@@ -13,7 +13,7 @@
   </tfoot>
 </table>
 
-![Lab 4 Assignment](https://github.com/allegheny-college-cmpsc-104-Fall-2024/lab04/blob/main/graphics/techWriting.png)
+![Lab 4 Assignment](https://github.com/allegheny-college-cmpsc-104-Fall-2024/lab04/blob/main/graphics/tech_writer.jpg)
 
 ## Project Goals
 - Achieve thorough understanding and accurate communication of technical subject matter.
