@@ -41,7 +41,7 @@ This project allows you to translate complex software operations into clear, act
 - Please use the template complete the TODOs in `writing/temp.md`.
 
 ### _Notes_: 
-- For this lab, GatorGrader will verify that all TODOs have been eliminated and that your submission includes a minimum of 500 words.
+- For this lab, GatorGrader will verify that all TODOs have been eliminated and that your submission includes a minimum of 200 words.
 
 ## Resources
 - Google’s Technical Writing Course: https://developers.google.com/tech-writing

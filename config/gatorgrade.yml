@@ -12,10 +12,10 @@ setup: |
         fragment: TODO
         count: 0
         exact: true
-    - description: Write a minimum number of meaningful words (400) in the temp.md
+    - description: Write a minimum number of meaningful words (200) in the temp.md
       check: CountFileWords
       options:
-        count: 400
+        count: 200
         exact: false
 
 # count number of commits in the GitHub repository
