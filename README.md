@@ -52,12 +52,12 @@ This project allows you to translate complex software operations into clear, act
 Please submit your work by pushing it to your GitHub Classroom repository.
 
 ## Project Assessment
-- **Content Accuracy (20%)**: Accurate descriptions of JIRA's features.
-- **Clarity and Readability (20%)**: Information is presented clearly and concisely.
-- **Completeness (20%)**: The manual covers key features of JIRA comprehensively.
-- **Technical Accuracy (10%)**: Accurate use of technical terms.
-- **Formatting and Presentation (10%)**: Well-formatted and visually appealing manual.
-- **Use of Visuals (10%)**: Effective integration of visual aids.
+- **Content Accuracy (20%)**: Accurate descriptions of JIRA's features. All information is current, relevant to JIRA’s latest version, and correctly explains the platform's capabilities and settings.
+- **Clarity and Readability (20%)**: Information is presented clearly and concisely. Sentences are well-constructed, paragraphs are coherent, and there is a logical flow of information that is easy to follow.
+- **Completeness (20%)**: The manual covers key features of JIRA comprehensively, including setup, project creation, issue tracking, integrations, and use of agile methodologies.
+- **Technical Accuracy (10%)**: Technical terms are used accurately and appropriately. There is a clear understanding of JIRA’s technical aspects, and technical information is explained in a way that is accessible to both technical and non-technical users.
+- **Formatting and Presentation (10%)**: Excellent use of headings, subheadings, bullet points, and tables. The manual is visually appealing and professionally formatted.
+- **Use of Visuals (10%)**: Visual aids like screenshots, diagrams, and charts are used effectively throughout the manual. They enhance understanding and are well-integrated into the text.
 - **GatorGrader Compliance (10%)**: Meets all GatorGrader criteria.
 
 ## Gator Grade
