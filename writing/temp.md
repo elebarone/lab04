@@ -17,7 +17,10 @@ JIRA, developed by Atlassian, is an advanced project management tool renowned fo
 
 ## Why Use JIRA?
 ### Hints/Examples:
-- Explore aspects such as **Streamlining Projects**, **Flexible Methodologies**, and **Enhanced Team Collaboration** to understand how JIRA supports these elements.
+Explore aspects such as:
+- **Streamlining Projects**: Discover how JIRA streamlines project management processes and enhances team efficiency.
+- **Enhanced Team Collaboration**: See how JIRA fosters better communication and collaboration among project members.
+
 
 `TODO`
 
