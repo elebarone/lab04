@@ -39,7 +39,7 @@ This project allows you to translate complex software operations into clear, act
 - **Markdown Proficiency**: Gain practical experience in writing and managing Markdown documents.
 
 ## Instructions
-- Please use the template complete the TODOs in `writing/temp.md`.
+- Please use the template file and complete the TODOs in `writing/temp.md`.
 
 ### _Notes_: 
 - For this lab, GatorGrader will verify that all TODOs have been eliminated and that your submission includes a minimum of 200 words.
