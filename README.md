@@ -25,10 +25,10 @@ These assignment learning outcomes contribute to the following course learning o
 2. Use professional-grade integrated development environments (IDEs), command-line tools, and version control systems to compose, edit, and deploy well-structured, web-ready documents and industry-standard documentation tools.
 
 ## Introduction
-This lab assignment focuses on creating a comprehensive user manual for JIRA, enhancing your technical writing skills by applying them to a widely used project management and issue tracking software by Atlassian.
+This lab assignment focuses on creating a comprehensive user manual for Dillinger, enhancing your technical writing skills by applying them to an online Markdown editor.
 
 ### Objective
-Develop a user manual that clearly describes the functionalities of JIRA, addressing both new and experienced users. Explore aspects of the software including project setup, issue tracking, workflow customization, and agile methodologies.
+Develop a user manual that clearly describes the functionalities of Dillinger.io, addressing both new and experienced users. Explore aspects of the software including creating and editing Markdown files, exporting documents, integrating with cloud storage services, and utilizing advanced features.
 
 ### Importance of the Assignment
 This project allows you to translate complex software operations into clear, actionable instructions, enhancing your technical communication skills.
@@ -36,6 +36,7 @@ This project allows you to translate complex software operations into clear, act
 ### What You Will Learn
 - **Technical Communication**: Improve your ability to convey complex information clearly.
 - **Documentation Standards**: Learn best practices in layout, design, and usability.
+- **Markdown Proficiency**: Gain practical experience in writing and managing Markdown documents.
 
 ## Instructions
 - Please use the template complete the TODOs in `writing/temp.md`.
@@ -44,6 +45,8 @@ This project allows you to translate complex software operations into clear, act
 - For this lab, GatorGrader will verify that all TODOs have been eliminated and that your submission includes a minimum of 200 words.
 
 ## Resources
+- Dillinger Website: https://dillinger.io/
+- Markdown Guide: https://www.markdownguide.org/
 - Google’s Technical Writing Course: https://developers.google.com/tech-writing
 - IBM’s Developing Quality Technical Information - A Handbook for Writers and Editors: https://www.pearson.com/store/p/developing-quality-technical-information-a-handbook-for-writers-and-editors/P100000648244
 - Chicago Manual of Style: https://www.chicagomanualofstyle.org/book/ed17/part2/ch05/toc.html
@@ -52,10 +55,10 @@ This project allows you to translate complex software operations into clear, act
 Please submit your work by pushing it to your GitHub Classroom repository.
 
 ## Project Assessment
-- **Content Accuracy (20%)**: Accurate descriptions of JIRA's features. All information is current, relevant to JIRA’s latest version, and correctly explains the platform's capabilities and settings.
+- **Content Accuracy (20%)**: Accurate descriptions of Dillinger's features. All information is current, relevant to the latest version, and correctly explains the platform's capabilities and settings.
 - **Clarity and Readability (20%)**: Information is presented clearly and concisely. Sentences are well-constructed, paragraphs are coherent, and there is a logical flow of information that is easy to follow.
-- **Completeness (20%)**: The manual covers key features of JIRA comprehensively, including setup, project creation, issue tracking, integrations, and use of agile methodologies.
-- **Technical Accuracy (10%)**: Technical terms are used accurately and appropriately. There is a clear understanding of JIRA’s technical aspects, and technical information is explained in a way that is accessible to both technical and non-technical users.
+- **Completeness (20%)**: TThe manual covers key features of Dillinger comprehensively, including creating/editing files, exporting documents, and cloud integrations.
+- **Technical Accuracy (10%)**: Technical terms are used accurately and appropriately. There is a clear understanding of Dillinger’s technical aspects, and information is explained in a way that is accessible to both technical and non-technical users.
 - **Formatting and Presentation (10%)**: Excellent use of headings, subheadings, bullet points, and tables. The manual is visually appealing and professionally formatted.
 - **Use of Visuals (10%)**: Visual aids like screenshots, diagrams, and charts are used effectively throughout the manual. They enhance understanding and are well-integrated into the text.
 - **GatorGrader Compliance (10%)**: Meets all GatorGrader criteria.
