@@ -5,15 +5,16 @@ Dillinger, an open-source, online cloud-based Markdown editor, is renowned for i
 ## Prerequisites
 ### Hints/Examples:
 - A computer with internet access.
-
-`TODO`
+- Access of a web browser
+- Prior knowledge on language writing
+- Abillity to write clear, but short sentences
 
 ## What is Dillinger?
 ### Hints/Examples:
 - Explore the primary purpose of Dillinger and understand its role in simplifying the creation and editing of Markdown documents.
 - Determine who typically uses Dillinger and how it benefits them in their daily tasks.
 
-`TODO`
+
 
 ## Why Use Dillinger?
 ### Hints/Examples:
@@ -21,8 +22,7 @@ Explore aspects such as:
 - **Simplified Markdown Editing**: Discover how Dillinger streamlines the process of writing Markdown with a user-friendly interface.
 - **Real-Time Preview**: See how Dillinger allows users to view the formatted output instantly as they type.
 
-
-`TODO`
+Dillinger provides a free markdown editor service where users can see a real time preview on the side of their screen. With Dillinger's beginer friendly interface, everyone is guarenteed to get a hang of it.
 
 ## Getting Started with Dillinger
 ### Hints/Examples:
